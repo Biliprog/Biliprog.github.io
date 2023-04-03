@@ -1,11 +1,12 @@
 title: Henri William Paul 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: Data (remove <br> elements if you don't need line breaks)
-  First description 
+  Quantitative Economist
   <br><br>
-  Second description 
+  Data Scientist
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://linkedin.com/in/henri-william-paul-54490b265/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/Biliprog/">View My GitHub Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
